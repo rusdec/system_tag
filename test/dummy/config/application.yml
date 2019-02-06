@@ -1,0 +1,7 @@
+test:
+  NODE_ADDRESS: test.strahovkaru.ru
+  APP_ADDRESS: 0.0.0.0
+  TEST-ADDRESS1: test.address1
+  TEST=ADDRESS2: test.address2
+  TEST.ADDRESS3: test.address3
+  API_KEY: 000
