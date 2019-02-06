@@ -44,7 +44,7 @@ Next we need add tags to our view. For example in layout `layouts/_header.slim`
 - Copy `system_tag.es6` to your assets javascripts directory
 
 ```bash
-cp PLUGGIN_DIR/app/assets/javascripts/system_tag.es6 APP_DIR/app/assets/javascripts/
+cp PLUGIN_DIR/app/assets/javascripts/system_tag.es6 APP_DIR/app/assets/javascripts/
 ```
 - Add it to application.js
 
