@@ -11,7 +11,7 @@ require "rails/test_unit/railtie"
 require "sprockets/railtie"
 
 Bundler.require(*Rails.groups)
-require "system_tag2"
+require "system_tag"
 
 module Dummy
   class Application < Rails::Application
