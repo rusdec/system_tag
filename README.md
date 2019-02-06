@@ -1,5 +1,5 @@
 # SystemTag
-Rails plugin provides variables from .yml files to fronend.
+Rails plugin provides variables from .yml backend files to frontend.
 
 Like superlite version of gem gon.
 
