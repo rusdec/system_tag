@@ -51,7 +51,7 @@ cp PLUGGIN_DIR/app/assets/javascripts/system_tag.es6 APP_DIR/app/assets/javascri
 ```js
 ...
 //= require system_tag
-,,,
+...
 ```
 
 ### Usage in frontend
