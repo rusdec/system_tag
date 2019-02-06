@@ -36,9 +36,9 @@ production:
 Next we need add tags to our view. For example in layout `layouts/_header.slim`
 
 ```slim
-,,,
+  ...
   = SystemTag.tags
-  ,,,
+  ...
 ```
 ### Add system_tag.es6 to application
 - Copy `system_tag.es6` to your assets javascripts directory
